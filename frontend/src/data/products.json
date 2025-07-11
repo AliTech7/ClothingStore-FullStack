@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "T-Shirt",
+    "price": 25,
+    "image": "https://placehold.co/200x250.png?text=T-Shirt"
+  },
+  {
+    "id": "2",
+    "name": "Jeans",
+    "price": 55,
+    "image": "https://placehold.co/200x250.png?text=Jeans"
+  },
+  {
+    "id": "3",
+    "name": "Hoodie",
+    "price": 65,
+    "image": "https://placehold.co/200x250.png?text=Hoodie"
+  },
+  {
+    "id": "4",
+    "name": "Sneakers",
+    "price": 80,
+    "image": "https://placehold.co/200x250.png?text=Sneakers"
+  },
+  {
+    "id": "5",
+    "name": "Cap",
+    "price": 15,
+    "image": "https://placehold.co/200x250.png?text=Cap"
+  },
+  {
+    "id": "6",
+    "name": "Jacket",
+    "price": 120,
+    "image": "https://placehold.co/200x250.png?text=Jacket"
+  }
+]
