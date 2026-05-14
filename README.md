@@ -2,7 +2,7 @@
 
 Online clothing store built with NestJS, MongoDB, and Next.js.
 
-## Features!!
+## Features!!!
 
 User Authentication
 
